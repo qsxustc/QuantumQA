@@ -1,6 +1,6 @@
 # QuantumQA: Enhancing Scientific Reasoning via Physics-Consistent Dataset and Verification-Aware Reinforcement Learning
 
-[![Paper](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)]([https://arxiv.org/abs/2604.18176](https://arxiv.org/abs/2604.18176))
+[![Paper](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/abs/2604.18176)
 [![Dataset](https://img.shields.io/badge/HuggingFace-Dataset-<COLOR>.svg)](https://huggingface.co/datasets/qsxjack44/QuantumQA)
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC_BY--NC_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
 
