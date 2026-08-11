@@ -1,6 +1,6 @@
 # QuantumQA: Enhancing Scientific Reasoning via Physics-Consistent Dataset and Verification-Aware Reinforcement Learning
 
-[![Paper](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/abs/2604.18176)
+[![Paper](https://img.shields.io/badge/ACL-Paper-blue.svg)](https://aclanthology.org/2026.acl-long.1423/)
 [![Dataset](https://img.shields.io/badge/HuggingFace-Dataset-<COLOR>.svg)](https://huggingface.co/datasets/qsxjack44/QuantumQA)
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC_BY--NC_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
 
@@ -14,6 +14,7 @@ Building on this foundation, we propose the **verification-aware reward model (V
 
 ## 📢 News
 * **[2026-04]** Paper uploaded to arXiv! Check it out [here](https://arxiv.org/abs/2604.18176).
+* **[2026-07]** Our paper has been published at ACL 2026! Read the official version on [ACL Anthology](https://aclanthology.org/2026.acl-long.1423/).
 * **[2026-08]** QuantumQA is now open source! Please visit the [Hugging Face dataset](https://huggingface.co/datasets/qsxjack44/QuantumQA).
 
 ---
